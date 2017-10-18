@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot-with-node.js",
+  "version": "1.0.0",
+  "description": "simple Twitter Bot with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnkatchmar/Twitter-Bot-with-Node.js.git"
+  },
+  "author": "Greg Katchmar <gunk55@msn.com> (www.gkatchmar.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnkatchmar/Twitter-Bot-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/gnkatchmar/Twitter-Bot-with-Node.js#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
