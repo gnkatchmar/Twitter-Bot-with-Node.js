@@ -8,7 +8,7 @@ function twitterBot() {
     // Set up your search parameters
     var params = {
         q: '#ImpeachTrumpNow',
-        count: 5,
+        count: 10,
         result_type: 'recent',
         lang: 'en'
     };
